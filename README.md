@@ -1,2 +1,7 @@
 # Chatbot1
-Testing a chatbot for a webpage
+Fine Tuned BERT model for label classifier
+Streamlit App is in app.py and training.py is the training for fine tuning bert model, main program to run is chatbot3.py
+Followed up with mock product ID for now for testing
+To do: 
+  Fine tune the model, very inconsistent as of now
+  Link with supabase once DB has been hosted for order details
